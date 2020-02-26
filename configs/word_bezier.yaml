@@ -1,0 +1,18 @@
+OUTPUT_DIR: output/align
+MODEL:
+  META_ARCHITECTURE: "OneStage"
+  ONE_STAGE_HEAD: "align"
+  WEIGHT: "model_tt_att.pth" 
+  FCOS_ON: True
+  BACKBONE:
+    CONV_BODY: "R-50"
+  NECK:
+    CONV_BODY: "fpn-align"
+  ALIGN:
+    POOLER_RESOLUTION: (7, 32)
+    POOLER_SCALES: (0.25, 0.125, 0.0625)
+    PREDICTOR: "attention" # "ctc" or "attention"
+DATASETS:
+  TEST: ("tt_word_test",) 
+
+
