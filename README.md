@@ -1,6 +1,6 @@
 # ABCNet
 
-[paper](https://arxiv.org/abs/2002.10200). The paper will be updated soon.
+[paper](https://arxiv.org/abs/2002.10200). The paper will be updated according to reviews.
 
 We provide demo in this repository. We will update our code at [adet](https://github.com/aim-uofa/adet).
 
