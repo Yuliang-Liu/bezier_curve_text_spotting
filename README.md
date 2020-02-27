@@ -51,7 +51,7 @@ Bezier-curve generated script [link](https://drive.google.com/open?id=1bFmdXCCsW
 }
 
 ```
-* Authors contributed equally.
+* *represents the authors contributed equally.
 
 # Copyright
 
