@@ -1,6 +1,6 @@
 # ABCNet
 
-[paper](https://arxiv.org/abs/2002.10200). The paper is not the final version. It will be updated soon.
+[Paper Link](https://arxiv.org/abs/2002.10200). Note this paper is not the final version. We will update soon.
 
 We provide demo in this repository. We will update our code at [adet](https://github.com/aim-uofa/adet).
 
