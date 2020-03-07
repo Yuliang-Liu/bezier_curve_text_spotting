@@ -6,6 +6,8 @@ We provide demo in this repository. We will update our code at [adet](https://gi
 
 # Run Demo
 
+Check [Installation](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/INSTALL.md) for installation instructions.
+
 ```
 bash vis_demo.sh
 ```
