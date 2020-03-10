@@ -10,7 +10,7 @@ from .pan import PAN
 from .msr import MSR
 from . import resnet
 from . import resnet_bn
-from . import resnet_lpf
+# from . import resnet_lpf
 from . import mobilenet
 
 
