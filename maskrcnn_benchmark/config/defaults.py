@@ -106,6 +106,12 @@ _C.DATALOADER.SIZE_DIVISIBILITY = 32
 # are not batched with portrait images.
 _C.DATALOADER.ASPECT_RATIO_GROUPING = True
 
+# ---------------------------------------------------------------------------- #
+# head options
+# ---------------------------------------------------------------------------- #
+
+_C.MODEL.ONE_STAGE_HEAD = 'align'
+
 
 # ---------------------------------------------------------------------------- #
 # Backbone options
