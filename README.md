@@ -26,6 +26,8 @@ totaltext
 
 Model [[Google Drive]](https://drive.google.com/open?id=1JiIhZXYE5VvT7f7BmaBbtDJThOkR36bo) 
 
+Total-Text Results of this model: "recall": 0.57848, "Precision": 0.70785, "Hmean": 0.63666
+
 Totaltext test data  [[Google Drive]](https://drive.google.com/open?id=1Y0fkBy0uy6uFKdlv6IVTZPvERqAoK_j2)
 
 Syntext-150k [link] (Part1: 54,327 images. Part2: 94,723 images.)
