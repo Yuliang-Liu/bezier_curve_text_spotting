@@ -1,4 +1,4 @@
-# ABCNet
+# ABCNet （pytorch implementation）
 
 [Paper Link](https://arxiv.org/abs/2002.10200). Note this paper is not the final version. We will update soon.
 
