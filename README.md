@@ -30,7 +30,7 @@ Total-Text Results of this model: "recall": 0.57848, "Precision": 0.70785, "Hmea
 
 Totaltext test data  [[Google Drive]](https://drive.google.com/open?id=1Y0fkBy0uy6uFKdlv6IVTZPvERqAoK_j2)
 
-Syntext-150k [link] (Part1: 54,327 images. Part2: 94,723 images.)
+Syntext-150k [link] (Part1: 54,327 [[imgs]](https://universityofadelaide.box.com/s/1jcvu6z9jojmhzojuqrwxvwxmrlw7uib)[[annos]](https://universityofadelaide.box.com/s/zc73pyzvymqkjg3vkb2ayjol7y5a4fsk). Part2: 94,723 [[imgs]](https://universityofadelaide.box.com/s/ibihmhkzpc1zuh56mxyehad1dv1l73ua)[[annos]](https://universityofadelaide.box.com/s/rk55zheij8ubvwgzg7dfjbxgi27l8xld).)
 
 # Description
 
