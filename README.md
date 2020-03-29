@@ -19,7 +19,7 @@ totaltext
 |_ test_images
 |  |_ 0000000.jpg
 |  |_ ...
-|  |_0000299.jpg
+|  |_ 0000299.jpg
 |_ annotations
 |  |_ total_test.json 
 ```
@@ -36,7 +36,7 @@ Syntext-150k [link] (Part1: 54,327 [[imgs]](https://universityofadelaide.box.com
 ```
 python tools/tests/single_demo_bezier.py
 ```
-<img src="demo/BezierAlign_result.png" width="81%">
+<img src="demo/BezierAlign_result.png" width="50%">
 
 # Description
 
