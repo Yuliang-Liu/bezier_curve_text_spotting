@@ -2,7 +2,9 @@
 
 [Paper Link](https://arxiv.org/abs/2002.10200). Note this paper is not the final version. We will update soon.
 
-We provide demo in this repository. We will update our code at [adet](https://github.com/aim-uofa/adet).
+We will release our full code in the [Adet](https://github.com/aim-uofa/AdelaiDet) next week, including the models of CTW1500 and Total-text, all the training data we used, evaluation scripts, results of detection, etc. More updates will also be conducted on [Adet](https://github.com/aim-uofa/AdelaiDet) as well. This repo will not be maintained anymore.
+
+Thanks for your attention.
 
 # Run Demo
 
