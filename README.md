@@ -63,7 +63,7 @@ Bezier-curve generated script [link](https://drive.google.com/open?id=1bFmdXCCsW
 
 # Copyright
 
-Any suggestion is welcome. Please send email to liu.yuliang@mail.scut.edu.cn or yuliang.liu@adelaide.edu.au
+Any suggestion is welcome. Please send email to liu.yuliang@mail.scut.edu.cn
 
 For commercial purpose usage, please contact Dr. Lianwen Jin: eelwjin@scut.edu.cn
 
