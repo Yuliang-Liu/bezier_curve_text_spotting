@@ -2,7 +2,7 @@
 
 **The full code has been released in the [Adet](https://github.com/aim-uofa/AdelaiDet/blob/master/configs/BAText/README.md), including the models of CTW1500 and Total-text, all the training data we used, evaluation scripts, results of detection, etc. More updates will also be conducted on [Adet](https://github.com/aim-uofa/AdelaiDet/blob/master/configs/BAText/README.md) as well. This repo will not be maintained anymore.**
 
-[Paper Link](https://arxiv.org/abs/2002.10200). Note this paper is not the final version. We will update soon.
+[Paper Link](https://arxiv.org/abs/2002.10200). 
 
 # Run Demo
 
